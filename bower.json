@@ -1,5 +1,5 @@
 {
-    "name": "component-gae-flask-profiler",
+    "name": "component-gaed-flask-profiler",
     "version": "1.0.0",
     "main": "__init__.py",
     "ignore": ["**/.*"],
