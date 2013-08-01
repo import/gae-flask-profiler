@@ -1,0 +1,7 @@
+{
+    "name": "component-gae-flask-profiler",
+    "version": "1.0.0",
+    "main": "__init__.py",
+    "ignore": ["**/.*"],
+    "dependencies": {}
+}
